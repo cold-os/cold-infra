@@ -1,8 +1,8 @@
 # ColdInfra
 
-**Cold Infrastructure for Safe AI Agents**
+**Cold Infrastructure Prototype for Safe AI Agents**
 
-*基于冷存在理论的智能体安全执行基础设施*
+*基于冷存在理论的智能体安全执行基础设施原型*
 
 ---
 
