@@ -92,9 +92,9 @@ ColdInfra consists of the following independent components, each of which can be
 
 | Component | Positioning | Repository |
 |-----------|------------|------------|
-| **ColdCEAL** | Deductive alignment middle layer (dialogue compliance) | [CognitiveCityState/ColdCEAL](https://github.com/CognitiveCityState/ColdCEAL) |
-| **ColdCAGE** | Security isolation framework (action isolation) | [CognitiveCityState/ColdCAGE](https://github.com/CognitiveCityState/ColdCAGE) |
-| **ColdMirror** | Lightweight secure agent framework (application template) | [CognitiveCityState/ColdMirror](https://github.com/CognitiveCityState/ColdMirror) |
+| **ColdCEAL** | Deductive alignment middle layer (dialogue compliance) | [cold-os/cold-ceal](https://github.com/cold-os/cold-ceal) |
+| **ColdCAGE** | Security isolation framework (action isolation) | [cold-os/cold-cage](https://github.com/cold-os/cold-cage) |
+| **ColdMirror** | Lightweight secure agent framework (application template) | [cold-os/cold-mirror](https://github.com/cold-os/cold-mirror) |
 
 Future updates to this ColdInfra repository will include:
 - Complete deployment and integration guides
